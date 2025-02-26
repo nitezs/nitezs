@@ -1,11 +1,7 @@
 # 👋 Hi~
 
-Welcome to my GitHub profile! 🌟
-
-## 📊 GitHub Stats
-
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=nitezs&show_icons=true&theme=github_dark_dimmed)  
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nitezs&layout=compact&theme=github_dark_dimmed)
+Welcome to my GitHub profile! 🌟  
+All my new repos are in my self-hosted gitea: https://git.nite07.com
 
 ## 🔗 Find Me
 
