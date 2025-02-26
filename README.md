@@ -1,7 +1,6 @@
 # 👋 Hi~
 
-Welcome to my GitHub profile! 🌟  
-All my new repos are in my self-hosted gitea: https://git.nite07.com
+All my repos are in my self-hosted gitea: https://git.nite07.com/nite
 
 ## 🔗 Find Me
 
